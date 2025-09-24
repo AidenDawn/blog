@@ -1,0 +1,3 @@
+[submodule "themes/cid"]
+	path = themes/cid
+	url = https://github.com/hdra/Pelican-Cid.git
